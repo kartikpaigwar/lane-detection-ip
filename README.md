@@ -3,4 +3,4 @@ Lane Detection using image processing. Sobelx filter is used to detect vertical 
 #command to run the code
 python3 lane-detection.py 
 
-![Alt text](houghlines3.jpg raw=true "Road Image")
+![Alt text](houghlines3.jpg)
